@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var myRecyclerAdapter: MyRecyclerAdapter
     private lateinit var myRecyclerView: RecyclerView
 
+    // seconding...
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

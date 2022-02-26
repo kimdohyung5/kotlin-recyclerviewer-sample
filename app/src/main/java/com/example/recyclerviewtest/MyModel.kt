@@ -9,3 +9,6 @@ class MyModel(var name:String? = null, var profileImage:String? = null)  {
         Log.d(TAG, "MyModel - init() called")
     }
 }
+
+
+// eeee
